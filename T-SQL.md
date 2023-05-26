@@ -12,7 +12,7 @@
       - Microsoft uses GUID -> A GUID (globally unique identifier) is a 128-bit text string that represents an identification (ID) -> Not as performant as IDs
       - Using a unique identifier makes insertion into the database much faster because it inserts based upon the ID in the spot where it should go
     - Can also be used with functions to perform calculations or operations on the data
-  - *
+  - `*`
     - Returns all columns
     - Usage is not necessarily best practice
   - FROM
